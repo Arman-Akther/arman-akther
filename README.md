@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio website using react and tailwind**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript & Unreal Engine**
 
 - 👯 I’m looking to collaborate on **any projects to gain experience and build my portfolio**
 
